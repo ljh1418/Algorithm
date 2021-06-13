@@ -18,5 +18,7 @@ public class Digits {
 		
 		
 		System.out.println("변수 no 의 값은" + no + "입니다.");
+		
+		
 	}
 }
