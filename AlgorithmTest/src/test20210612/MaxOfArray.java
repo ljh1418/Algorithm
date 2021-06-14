@@ -2,6 +2,7 @@ package test20210612;
 
 import java.util.Scanner;
 
+//메소드
 public class MaxOfArray {
 	static int maxOf(int[] height) {
 		int max = height[0];
@@ -11,6 +12,7 @@ public class MaxOfArray {
 		return max;
 	}
 	
+	//실행
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
